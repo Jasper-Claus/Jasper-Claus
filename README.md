@@ -7,7 +7,8 @@
 <br>
 - 🌱 I’m currently learning: HTML, CSS and JAVA
 <br>
-- 📫 How to reach me: You can reach me via <a href=mailto:jaspergeschaft@gmail.com>Mail</a> 
+- 📫 How to reach me: You can reach me via <a href=mailto:jaspergeschaft@gmail.com>Mail</a> or via <a href="https://discord.com/channels/@me" rel="nofollow">Discord</a>
+>Mail</a> 
 
 
 <!---
