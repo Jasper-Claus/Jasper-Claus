@@ -7,8 +7,8 @@
 <br>
 - 🌱 I’m currently learning: HTML, CSS and JAVA
 <br>
-- 📫 How to reach me: <a href=mailto:jaspergeschaft@gmail.com>Mai1</a>
-       
+- 📫 How to reach me:       <a href=mailto:jaspergeschaft@gmail.com>Mai1</a>
+
 
 <!---
 Jasper-Claus/Jasper-Claus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
