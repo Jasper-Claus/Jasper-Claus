@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning: HTML, CSS and JAVA
 <br>
 - 📫 How to reach me: You can reach me via <a href=mailto:jaspergeschaft@gmail.com>Mail</a> 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jasper-Claus=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
