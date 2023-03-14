@@ -5,7 +5,7 @@
 <br>
 - 👀 I’m interested in: web development
 <br>
-- 🌱 I’m currently learning: HTML, CSS and JAVA
+- 🌱 I’m currently learning: javascript 
 <br>
 - 📫 How to reach me: You can reach me via <a href=mailto:jaspergeschaft@gmail.com>Mail</a> 
 
