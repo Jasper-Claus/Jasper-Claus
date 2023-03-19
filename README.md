@@ -7,7 +7,7 @@
 <br>
 - 🌱 I’m currently learning: javascript 
 <br>
-- 📫 How to reach me: You can reach me via <a href=mailto:jaspergeschaft@gmail.com>Mail</a> 
+- 📫 How to reach me: You can reach me via <a href=mailto:infojasperclaus@gmail.com>Mail</a> 
 
 
 <!---
