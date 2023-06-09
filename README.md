@@ -9,7 +9,9 @@
 <br>
 - 📫 How to reach me: You can reach me via <a href=mailto:infojasperclaus@gmail.com>Mail</a> 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasper-Claus&theme=monokai)
+## 📈 Some stats:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasper-Claus&theme=tokyonight)
 
 
 <!---
