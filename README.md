@@ -11,10 +11,9 @@
 
 ## 📈 Some stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasper-Claus&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasper-Claus&theme=tokyonight)
 
 
-<!---
-Jasper-Claus/Jasper-Claus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
