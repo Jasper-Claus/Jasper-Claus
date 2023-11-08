@@ -13,5 +13,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasper-Claus&theme=tokyonight)
 
-## ✍ Random quote
-<h1>Steve Jobs 1995: “Everybody should learn to program a computer, because it teaches you how to think" </h1>
+
