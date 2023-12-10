@@ -1,11 +1,11 @@
 ## About me
 
 - 👋 Hi, I’m @Jasper-Claus
-<br>
+
 - 👀 I’m interested in: web development
-<br>
+
 - 🌱 I’m currently learning: javascript 
-<br>
+
 - 📫 How to reach me: You can reach me via <a href=mailto:infojasperclaus@gmail.com>Mail</a> 
 
 ## 📈 Some stats:
