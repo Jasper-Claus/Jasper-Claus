@@ -12,4 +12,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasper-Claus&theme=tokyonight)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
