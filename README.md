@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: javascript 
 
-- 📫 How to reach me: You can reach me via <a href=mailto:infojasperclaus@gmail.com>Mail</a> 
+- 📫 How to reach me: You can reach me via <a href=mailto:github@jasper-claus.de>Mail</a> 
 
 ## 📈 Some stats:
 
