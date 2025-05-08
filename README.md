@@ -4,8 +4,6 @@
 
 - 👀 I’m interested in: web development
 
-- 🌱 I’m currently learning: javascript 
-
 - 📫 How to reach me: You can reach me via <a href=mailto:github@jasper-claus.de>Mail</a> 
 
 ## 📈 Some stats:
